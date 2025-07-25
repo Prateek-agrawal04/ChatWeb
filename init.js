@@ -18,7 +18,7 @@ let AllChats = [{
 {
     from: "Neha",
     to: "Preeti",
-    msg: "Aur behen kesi hai?",
+    msg: "Syllabus complete ho gya?",
     created_At: new Date(),
 },
 {
@@ -30,7 +30,7 @@ let AllChats = [{
 {
     from: "Shams",
     to: "Harshit",
-    msg: "GATE kesa raha",
+    msg: "Exam kesa raha",
     created_At: new Date(),
 },
 {
